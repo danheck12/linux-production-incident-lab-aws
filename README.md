@@ -2,7 +2,8 @@
 ![Repo Size](https://img.shields.io/github/repo-size/danheck12/linux-production-incident-lab-aws)
 ![Stars](https://img.shields.io/github/stars/danheck12/linux-production-incident-lab-aws?style=social)
 ![Terraform](https://img.shields.io/badge/terraform-infrastructure-blue)
-![Linux](https://img.shields.io/badge/linux-incident--response-critical)
+![ShellCheck](https://github.com/danheck12/linux-production-incident-lab-aws/actions/workflows/shellcheck.yml/badge.svg)
+
 
 Hands-on Linux reliability lab built on AWS EC2. Reproduces real production failure modes (disk full, inode exhaustion, OOM, systemd crashloops, DNS failures) and documents **diagnosis, mitigation, recovery, and prevention** using runbooks and postmortems.
 
